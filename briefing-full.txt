@@ -1,14 +1,12 @@
-Zaterdag 15 augustus · 22:00
+Zaterdag 15 augustus · 16:21
+FOCUS: Inpakken en afronden - morgenvroeg vertrek je om 6:30 naar Nederland, maandag start direct verhuizen plus nieuwe baan.
 
-FOCUS: Dag afsluiten - morgenvroeg 6:30 vlucht terug naar Nederland, maandag start direct verhuizen plus nieuwe baan.
+## Overzicht
+- Nijmegen: warm en grotendeels droog vandaag, tot 29 graden.
+- Beantwoord zelf de mail van Marlieke over de teamkennismaking (concept is verwijderd).
+- Pak koffers voor de vroege vlucht morgen 6:30.
+- Regel een vangnet voor de bezorging op ma 17 aug (8:00-22:00), want die dag valt samen met verhuizen en je eerste werkdag bij Campus & Facilities.
+- De Rosemarie-mail (Campus & Facilities kennismaking) is afgehandeld en gearchiveerd.
 
-## Nog open vandaag (P1)
-- Verstuur de 2 klaarstaande conceptmails (Marlieke - team kennismaking; Rosemarie - bevestiging 17e) - staan nog als concept in Gmail.
-- Regel een vangnet voor de bezorging op ma 17 aug (8:00-22:00, Graafse Ringpad 1, Nijmegen) - valt samen met verhuizen en eerste werkdag bij Campus & Facilities.
-
-## Morgen
-- 06:30 vlucht terug naar Nederland (geen locatie/reistijd bekend in agenda).
-
-## Prep-checklist morgen
-- Koffers pakken voor de vroege vlucht.
-- Paspoort/documenten en laptop mee.
+## Nuttig om te weten
+- Radboud CMS-team stuurde verplichte Drupal-trainingen die je moet volgen voor je aan de ru.nl-website werkt (basistraining en contenttypes eerst, aanmelden via gROW).

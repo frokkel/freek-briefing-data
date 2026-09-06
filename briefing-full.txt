@@ -1,12 +1,12 @@
-Zaterdag 5 september · 22:00
-AVONDBRIEFING — dag afgesloten, morgen voorbereid
+Zondag 6 september 2026 · 06:44
+FOCUS: Ruim vandaag de overdue ClickUp-taken op, want morgen zit vol (college, weekstart, kantoordag, aula, frisbee)
 
-## Nog open (P1 van vandaag, onafgewerkt)
-- Opzet radboud onderzoek — overdue sinds 1 sept, status: to do
-- Nieuwsbrief afronden — overdue sinds 1 sept, status: to do
+## Overzicht
+- Zonnig en droog vandaag, tot 22°C
+- ClickUp: overdue taken inhalen (Nieuwsbrief, onderzoeksopzet, cleaning video)
+- Kennisclip bekijken vóór college morgenvroeg; VLS-beschikbaarheid + bowling-opgave vóór morgen
 
-## Morgen
-- 07:00–08:00 Bbq ster en fam — geen locatie of reistijd genoteerd in de agenda
-
-## Prep-checklist morgen
-- Niets specifieks openstaand
+## Nuttig om te weten
+- Pakket van Upfront is afgeleverd
+- freeksmolders.nl actief via Cloudflare; Govee API-sleutel binnengekomen
+- Diverse automatische inlogmeldingen (Google/TP-Link/Claude), lijkt allemaal jezelf

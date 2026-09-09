@@ -1,14 +1,13 @@
-Dinsdag 8 september · 22:15 (avondstand)
-FOCUS: Dag afgesloten - geen openstaande P1's vandaag. Morgen start met kantoordag Centraal om 9:00.
+Woensdag 9 september · 22:05 (avondstand)
+FOCUS: Dag afgesloten - geen openstaande P1's. Morgen start met Kasco om 09:30.
 
 ## Overzicht
-- Geen onafgewerkte P1's vandaag (ClickUp: geen taken met prioriteit urgent gevonden, ongeacht due date).
-- Morgen 09:00-13:15: Radboud - Centraal (vaste kantoordag), Alumni Office.
-- Daarna morgen: Fotografie (15:00-15:30) en Huisavond (18:30-19:30).
-- Prep: laptop mee voor de kantoordag.
+- Geen onafgewerkte P1's vandaag (ClickUp: geen taken met prioriteit urgent gevonden t/m vandaag; agenda.txt van vanochtend noemde ook geen P1's).
+- Vandaag afgerond: kantoordag Centraal, Fotografie, Huisavond. Werkgroep CIWM414 is vervallen (opname op Brightspace).
+- Morgen 09:30-12:00: Kasco (eerste afspraak) - geen locatie/reistijd bekend in Google Calendar.
+- Daarna morgen: Werkcollege CIWM415 (13:30-15:15, E2.54), Linnaeus receptie (15:30-17:45), Bowlee (18:30-19:30).
 - Geen concrete Waiting For die morgen blokkeert.
 
-## Let op - databron kapot
-- briefing-full.txt bevatte bij ophalen nog content van zaterdag 15 augustus (verhuizing/Drupal-training), volledig niet gerelateerd aan vandaag.
-- agenda.txt kon niet opgehaald worden (permissiefout bij fetch).
-- De ochtend-/middagketen lijkt niet (goed) te schrijven naar deze repo. Deze avondstand is daarom rechtstreeks uit Google Calendar en ClickUp opgebouwd, zonder de ochtendbriefing/middagcorrectie als bron.
+## Let op - databron
+- briefing-full.txt stond bij ophalen nog op de avondstand van gisteren (8 sept, 22:15) - de dagketen van vandaag heeft dit bestand niet bijgewerkt.
+- agenda.txt was wel actueel (ochtendbriefing van vandaag, 06:45).

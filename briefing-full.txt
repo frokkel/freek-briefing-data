@@ -1,15 +1,14 @@
-Woensdag 9 september · 06:45
-FOCUS: concepten afronden en het fotomoment bij het Forum om 15:00 halen, college vervalt vandaag
+Dinsdag 8 september · 22:15 (avondstand)
+FOCUS: Dag afgesloten - geen openstaande P1's vandaag. Morgen start met kantoordag Centraal om 9:00.
 
 ## Overzicht
-- Ongeveer 20 graden, overwegend bewolkt met opklaringen in de middag, droog
-- RSC Skill Sprint NSSV FEL bevestigen: concept klaar om te versturen (17 sept nadert)
-- Literatuur lezen voor werkgroep CIWM415 (do 10 sept)
-- Cateringgids invullen voor Rosemarie, geen harde deadline
-- URGENT: Bezoek B&W gemeente vandaag 15:00-15:15 bij het Forum, concept staat klaar om te bevestigen
+- Geen onafgewerkte P1's vandaag (ClickUp: geen taken met prioriteit urgent gevonden, ongeacht due date).
+- Morgen 09:00-13:15: Radboud - Centraal (vaste kantoordag), Alumni Office.
+- Daarna morgen: Fotografie (15:00-15:30) en Huisavond (18:30-19:30).
+- Prep: laptop mee voor de kantoordag.
+- Geen concrete Waiting For die morgen blokkeert.
 
-## Nuttig om te weten
-- Everlastlaptops.nl (klant) is automatisch vervangen door een tijdelijk Hostinger-domein, DNS moet opnieuw ingesteld worden
-- Squash laddercompetitie: eerste ronde tegen Mats de Vries staat nog open, hij neemt initiatief om te plannen
-- Studentennieuwsbrief RU: Opening Student Living Room, Radboud Go Abroad Week, OV-staking
-- Loonstrook beschikbaar in CD Online
+## Let op - databron kapot
+- briefing-full.txt bevatte bij ophalen nog content van zaterdag 15 augustus (verhuizing/Drupal-training), volledig niet gerelateerd aan vandaag.
+- agenda.txt kon niet opgehaald worden (permissiefout bij fetch).
+- De ochtend-/middagketen lijkt niet (goed) te schrijven naar deze repo. Deze avondstand is daarom rechtstreeks uit Google Calendar en ClickUp opgebouwd, zonder de ochtendbriefing/middagcorrectie als bron.

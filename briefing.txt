@@ -1,6 +1,9 @@
-Zaterdag 12 september · 22:00 (avond)
+Zondag 13 september · 06:45
 
-Focus: Werkgroep-literatuur nog niet afgerond (achterstallig sinds 10 sept)
+Focus: Mailconcepten wegwerken en SharePoint-toegang regelen voor Hester, met het oog op de drukke Skill Sprint-week
 
-MORGEN
-- 11:30–12:30 Overleidensdag paulus (geen locatie genoteerd)
+AANDACHT VANDAAG
+- Literatuur werkgroep (10 sept) inhalen of afsluiten in ClickUp, is verlopen
+- Cateringgids verder invullen met Verne (Radboud)
+- Skill Sprint 17 sept: 3 concepten in Gmail checken en versturen
+- URGENT: everlastlaptops.nl-domein door Hostinger losgekoppeld, tijdelijk domein actief

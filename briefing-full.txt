@@ -1,8 +1,14 @@
-Zaterdag 12 september · 22:00
-AVONDAFSLUITING
+Zondag 13 september · 06:45
+FOCUS: Mailconcepten wegwerken en SharePoint-toegang regelen voor Hester, met het oog op de drukke Skill Sprint-week
 
-## Onafgewerkt vandaag
-- Werkgroep-literatuur lezen — nog niet ingehaald (achterstallig sinds 10 sept)
+## Overzicht
+- Weer: 13-22 graden, overwegend bewolkt met wat zon, in de avond kans op regen
+- Literatuur werkgroep (10 sept) inhalen of afsluiten in ClickUp, is verlopen
+- Cateringgids verder invullen met Verne, nieuw ontwerp ligt klaar
+- Skill Sprint 17 sept bij drie verenigingen: reactieconcepten staan klaar in Gmail
+- URGENT: everlastlaptops.nl-domein door Hostinger losgekoppeld na 30 dagen inactiviteit, tijdelijk domein actief
 
-## Morgen
-- 11:30–12:30 Overleidensdag paulus — geen locatie/reistijd bekend
+## Nuttig om te weten
+- LeftClick voert vanaf 30 oktober verplichte MFA in voor het hostingaccount, nu geen actie nodig
+- Dorien Schillemans complimenteerde het Skill Sprint-idee op Instagram
+- Mailbox opgeschoond: 18 nieuwsbrieven en verlopen sportmeldingen verwijderd of gearchiveerd

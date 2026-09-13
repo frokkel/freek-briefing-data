@@ -1,14 +1,18 @@
-Zondag 13 september · 06:45
-FOCUS: Mailconcepten wegwerken en SharePoint-toegang regelen voor Hester, met het oog op de drukke Skill Sprint-week
+Zondag 13 september · 22:00
 
-## Overzicht
-- Weer: 13-22 graden, overwegend bewolkt met wat zon, in de avond kans op regen
-- Literatuur werkgroep (10 sept) inhalen of afsluiten in ClickUp, is verlopen
-- Cateringgids verder invullen met Verne, nieuw ontwerp ligt klaar
-- Skill Sprint 17 sept bij drie verenigingen: reactieconcepten staan klaar in Gmail
-- URGENT: everlastlaptops.nl-domein door Hostinger losgekoppeld na 30 dagen inactiviteit, tijdelijk domein actief
+## Avondafsluiting
+- Literatuur werkgroep (10 sept) staat nog open in ClickUp en is verlopen
+- everlastlaptops.nl-domein (vanochtend als urgent gemeld): kon vanavond niet geverifieerd worden of dit is opgelost — Gmail-connector was niet bereikbaar
+
+## Morgen
+- 09:00-11:30 Radboud – Centraal (Alumni Office, vaste kantoordag)
+- 12:30-13:30 Weekstart centraal (evaluatie Radboud Intro)
+- 15:45-22:30 Radboud – Aula (Uitreiking in de avond)
+- Lange dag: kantoor, weekstart en uitreiking achter elkaar
+
+## Prep voor morgen
+- Laptop
+- Nette kleding voor de uitreiking in de Aula in de avond
 
 ## Nuttig om te weten
-- LeftClick voert vanaf 30 oktober verplichte MFA in voor het hostingaccount, nu geen actie nodig
-- Dorien Schillemans complimenteerde het Skill Sprint-idee op Instagram
-- Mailbox opgeschoond: 18 nieuwsbrieven en verlopen sportmeldingen verwijderd of gearchiveerd
+- Gmail-connector staat op 'needs reconnect' deze run — mailconcepten en SharePoint-toegang Hester (focus van vandaag) konden niet gecheckt worden, komt terug in de ochtendbriefing

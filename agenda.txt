@@ -1,13 +1,15 @@
-Zondag 20 september · 06:37
+Maandag 21 september · 06:34
 
 ## Vandaag
-- Geen afspraken vandaag.
+- 08:00–09:00 Start Co-pilot bot bouwen
+- 08:00–09:00 Pilot Day in the Life (deadline)
+- 09:00–18:00 Radboud Centraal (kantoordag)
+- 10:00–12:15 Fotografiecourse
+- 10:00–12:00 Fotoshoot studenten
+- 12:30–13:00 Weekstart centraal
+- 13:30–16:00 BHV Collegezalencomplex
 
 ## Morgen
-- 08:00–09:00 Start: Co-pilot bot bouwen
-- 09:00–18:00 Radboud – Centraal (kantoordag)
-- 09:00–10:00 Pilot Day in the Life (deadline)
-- 10:00–12:15 Fotografiecourse
-- 10:00–12:00 Fotoshoot studenten (tijd botst met cursus)
-- 12:30–13:00 Weekstart centraal
-- 13:30–16:00 Collegezalencomplex (BHV)
+- 12:30–13:30 Werkoverleg C&F
+- 15:15–17:45 Radboud Linnaeusgebouw
+- 21:30–22:30 Skill Sprint filmen - NSKV Profectus

@@ -1,12 +1,18 @@
-Dinsdag 22 september · 06:32
-FOCUS: agendaconflict oplossen (fotoshoot vs. college om 10:30) voordat de rest van de dag verder vult
+Dinsdag 22 september · 22:00 (avondbriefing)
+FOCUS: morgen 10:15 start op Radboud Centraal, tussendoor meeting Fleur over Day in the Life
 
-## Overzicht
-- Bewolkt, 11-19°C, nauwelijks neerslag (5%)
-- Drukke dag: fotoshoot, college, werkoverleg C&F, receptiedienst en 's avonds filmen Skill Sprint
-- Dubbele boeking 10:30-11:45: fotoshoot studenten overlapt met college Communicatie en gedragsbeïnvloeding
-- Achterstallig sinds gisteren: Co-pilot bot starten, Adobe-uitnodiging Rik Borst accepteren
-- Vandaag ook: Anouska informeren (Copilot Agent Builder geblokkeerd), reageren op Jan Scholten
+## Nog open (P1, onafgewerkt vandaag)
+- Co-pilot bot starten (sinds gisteren)
+- Adobe-uitnodiging Rik Borst accepteren (sinds gisteren)
+- Anouska informeren: Copilot Agent Builder geblokkeerd
+- Reageren op Jan Scholten (studentenfoto's) - hij wacht sinds 17 sept
 
-## Nuttig om te weten
-- Geen nieuwe mail in Uni of Persoonlijk; inbox bevatte alleen een verwachte Google-beveiligingsmelding over de Claude Tasks-koppeling, gearchiveerd
+## Morgen
+- Eerste afspraak: 10:15 Radboud Centraal (Alumni Office), kantoordag tot 15:15
+- 14:00 Meeting Fleur (Day in the Life), Berchmanianum
+- 15:30 College Comm. & gedragsbeïnvloeding
+- 19:00 Cobo 38
+
+## Prep
+- Laptop mee (kantoordag + college)
+- Day in the Life pilot bij de hand voor gesprek met Fleur

@@ -1,10 +1,12 @@
-Maandag 12 oktober · 22:00
-FOCUS MORGEN: eerste dienst 07:30 Linnaeusgebouw; MeetRSC met Loes bevestigen
+Di 13 okt · 06:30
+FOCUS: Antwoord Loes (interview 14:00) en Daan, en lever Co-pilot bot af (deadline 15 okt)
 
 ## Overzicht
-- Morgen: 07:30-11:45 Linnaeusgebouw, 12:30-13:30 Werkoverleg C&f, MeetRSC met Loes (zij stelt 14:00 voor in de B&M-zaal, agenda staat op 13:40), 15:15-23:15 UB (SWP), 18:15-19:45 Leren CGB.
-- Nog open P1: Loes bevestigen, Daan antwoorden (wo 10:00 Vitality Pit Stop), Co-pilot bot (deadline do 15 okt), Google-opslag opruimen vóór 15 okt.
+- Regenachtig, vooral in de middag; 14 okt OV-staking.
+- Reageer Loes: MeetRSC-interview vandaag 14:00 in B&M-zaal.
+- Reageer Daan en Cristiane: Vitality Pit Stop woensdag 10:00 en na 14:00.
+- Co-pilot bot af voor do 15 okt.
 
 ## Nuttig om te weten
-- Beschikbaarheid Master Open Dag 12 nov (15:30-21:00) doorgeven via VLS (morgen).
-- Nieuw: Renate vraagt webpagina's voor het meldprotocol (bijlagen NL/EN).
+- 16 okt krappe tijd is opgelost, iedereen akkoord.
+- Renate: meldprotocol-pagina (Drupal, type regeling) uiterlijk 21 okt.

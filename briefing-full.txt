@@ -1,12 +1,12 @@
-Di 13 okt · 22:00
-FOCUS: Vitality Pit Stop (10:00 Daan, na 14:00 Cristiane) en Co-pilot bot af (deadline 15 okt)
+Woensdag 14 oktober · 06:32
+FOCUS: Vitality Pit Stop opnames (10:00 en 14:00), daarna Hellevoetsluis
 
 ## Overzicht
-- Morgen 10:15-15:15 Radboud Centraal; Daan stelde 10:00 bij de balie voor, check overlap.
-- Lunchbox-items regelen voor de reel (na 14:00, the Yard).
-- 18:30-21:00 Voorlichting markt Hellevoetsluis (huurauto, OV-staking).
-- Co-pilot bot af voor do 15 okt.
+- Droog en mild, 9 tot 17 graden. OV-staking vandaag (vrijwel alle bussen).
+- Co-pilot bot moet morgen (15 okt) af zijn.
+- Opnames Vitality Pit Stop: 10:00 met Daan bij de balie, 14:00 met Cristiane (lunchbox-reel), boodschappen eerst zelf halen en bonnetje naar Dorien.
+- Reageren op Renate (HR-intranet uitleg, donderdag lukt niet) en Saskia (toegang ruwe bestanden onderwijsbeurs-video's is binnen): concepten staan klaar.
 
 ## Nuttig om te weten
-- Onderwijsbeurs-video's: eerste versie 26 okt, Utrecht definitief 2 nov, Rotterdam 16 nov.
-- Renate: meldprotocol-pagina uiterlijk 21 okt; wil donderdag laten zien op kantoor.
+- Meldprotocol Safe@RU (Drupal, type regeling) moet uiterlijk 21 okt klaar, rechten zijn aangevraagd.
+- Onderwijsbeurs-video's: eerste versie 26/27 okt, definitief Utrecht 2 nov en Rotterdam 16 nov.

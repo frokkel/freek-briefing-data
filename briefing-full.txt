@@ -1,13 +1,13 @@
-Donderdag 15 oktober · 06:30
-FOCUS: Barneveld-voorlichting vanochtend, daarna Co-pilot bot afronden
+Donderdag 15 oktober · 22:00
+FOCUS: morgen vroeg weg naar Tiel; vervanging voor morgen nog bevestigen
 
 ## Overzicht
-- Vandaag: voorlichting Barneveld 11:00-12:45 (reistijd 10:00 heen, 12:45 terug), 15:15-17:45 receptiedienst Linnaeusgebouw
-- Deadline vandaag: Co-pilot bot af
+- Open P1's van vandaag: Co-pilot bot af (deadline vandaag), DigiD en SSHN fixen
+- Morgen: 09:00 reistijd heen (huurauto) naar Tiel, 10:00-11:40 domeinvoorlichting Lingecollege Lyceum, 11:40-12:40 reistijd terug, 13:00-15:30 voorlichting markt Geldermalsen, 18:30 Huisavond
+- Vervanging voor morgen (TSV-app) nog niet bevestigd; als het geregeld is een mail naar Liz en Alexander zodat zij VLS aanpassen
 - Horn 24 nov (18:30-20:30): beschikbaarheid doorgeven via voorlichtingsysteem voor za 17 okt 13:00
-- Meldprotocol Safe@RU als pagina (type regeling) in Drupal klaarzetten, uiterlijk 21 okt; Renate wil donderdag op kantoor het HR-intranet laten zien
 
 ## Nuttig om te weten
-- Beursvideo's: eerste versie 26/27 okt, definitief Utrecht 2 nov en Rotterdam 16 nov (3x liggend, 3x staand, met ondertiteling)
-- Persona's-overleg (Teams) is optioneel voor jou
-- Morgen voorlichting Tiel 10:00 en markt Geldermalsen 13:00
+- Meldprotocol Safe@RU als regeling in Drupal (concept), uiterlijk 21 okt
+- Beursvideo's: eerste versie 26/27 okt, definitief Utrecht 2 nov en Rotterdam 16 nov
+- Nieuw in de wachtrij: Master Open Dag (12 nov) reageren op shift 14.30, verticale kerstdiner-schermen aanpassen, antwoorden Loes (MeetRSC) verwerken

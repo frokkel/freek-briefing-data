@@ -1,20 +1,13 @@
-Woensdag 14 oktober · 22:00
-FOCUS: Morgen Domeinvoorlichting Barneveld (11:00), daarna Linnaeusgebouw
+Donderdag 15 oktober · 06:30
+FOCUS: Barneveld-voorlichting vanochtend, daarna Co-pilot bot afronden
 
 ## Overzicht
-- Nog open: Co-pilot bot moet morgen (15 okt) af zijn.
-- Reageren op Renate (HR-intranet) en Saskia (ruwe bestanden onderwijsbeurs-video's), als dat nog niet gebeurd is.
-
-## Morgen
-- 10:00-11:00 Reistijd heen: Barneveld (huurauto)
-- 11:00-12:45 Domeinvoorlichting Barneveld, Johannes Fontanus College (samen met Nicole Kornegoor)
-- 12:45-13:45 Reistijd terug
-- 15:15-17:45 Radboud Linnaeusgebouw
-- 23:00 Body & Mind posten
-
-## Prep
-- Huurauto en laptop voor de voorlichting klaarzetten.
+- Vandaag: voorlichting Barneveld 11:00-12:45 (reistijd 10:00 heen, 12:45 terug), 15:15-17:45 receptiedienst Linnaeusgebouw
+- Deadline vandaag: Co-pilot bot af
+- Horn 24 nov (18:30-20:30): beschikbaarheid doorgeven via voorlichtingsysteem voor za 17 okt 13:00
+- Meldprotocol Safe@RU als pagina (type regeling) in Drupal klaarzetten, uiterlijk 21 okt; Renate wil donderdag op kantoor het HR-intranet laten zien
 
 ## Nuttig om te weten
-- Meldprotocol Safe@RU (Drupal, type regeling) uiterlijk 21 okt.
-- Onderwijsbeurs-video's: eerste versie 26/27 okt, definitief Utrecht 2 nov en Rotterdam 16 nov.
+- Beursvideo's: eerste versie 26/27 okt, definitief Utrecht 2 nov en Rotterdam 16 nov (3x liggend, 3x staand, met ondertiteling)
+- Persona's-overleg (Teams) is optioneel voor jou
+- Morgen voorlichting Tiel 10:00 en markt Geldermalsen 13:00
